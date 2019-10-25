@@ -417,7 +417,7 @@
 - Github: https://github.com/MorkWood2
 
 ### Rabby Revalde
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Photo: https://i1149.photobucket.com/albums/o599/RabbyRevalde/ak_zpsw4jhgzqb.jpg
 - Location: Cebu, Phillipines
 - Bio: Backend and Frontend. 💻 Open Source Contributor
 - Github: https://github.com/rabbyrevalde
